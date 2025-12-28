@@ -232,4 +232,32 @@ footer {
 .arrow.left { left: 10px; }
 .arrow.right { right: 10px; }
 
+.why-text {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 1.7;
+}
+
+.why-text p {
+  margin-bottom: 18px;
+  color: #ddd;
+}
+
+.why-points {
+  list-style: none;
+  padding: 0;
+  margin: 25px 0;
+}
+
+.why-points li {
+  margin-bottom: 12px;
+  font-size: 17px;
+}
+
+.why-final {
+  margin-top: 25px;
+  font-weight: 600;
+  color: var(--accent);
+}
 
